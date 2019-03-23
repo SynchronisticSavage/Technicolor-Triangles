@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:lc="http://www.librecad.org"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 481.94744 1115.308"
+   height="2832.8826cm"
+   width="1224.1465cm">
+  <metadata
+     id="metadata530">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs528" />
+  <g
+     transform="translate(-82,137.9715)"
+     style="fill:none;stroke:#000000;stroke-width:1"
+     id="g4"
+     lc:is_construction="false"
+     lc:is_locked="false"
+     lc:layername="0" />
+  <g
+     transform="translate(-82,137.9715)"
+     style="fill:none;stroke:#000000;stroke-width:1"
+     id="g6"
+     lc:is_construction="false"
+     lc:is_locked="false"
+     lc:layername="Body_Slices">
+    <g
+       id="g8"
+       lc:blockname="MYLAYER">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g10"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="0" />
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g12"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="Body_Slices">
+        <path
+           id="path14"
+           d="m 92.026279,976.75934 -9.526279,-5.5 0,-263.78838 9.526279,-5.5 228.447441,131.89419 0,11 -228.447441,131.89419 z" />
+        <path
+           id="path16"
+           d="m 94.5,717.25557 0,244.21916 L 306,839.36515 94.5,717.25557 Z" />
+        <circle
+           id="circle18"
+           r="1"
+           cy="829.36517"
+           cx="302.6795" />
+        <circle
+           id="circle20"
+           r="1"
+           cy="849.36517"
+           cx="302.6795" />
+        <circle
+           id="circle22"
+           r="1"
+           cy="839.36517"
+           cx="85.75" />
+        <circle
+           id="circle24"
+           r="1"
+           cy="725.13123"
+           cx="87.5" />
+        <circle
+           id="circle26"
+           r="2"
+           cy="710.71722"
+           cx="90.725082" />
+        <circle
+           id="circle28"
+           r="1"
+           cy="963.59906"
+           cx="104.82051" />
+        <circle
+           id="circle30"
+           r="1"
+           cy="953.59906"
+           cx="87.5" />
+        <circle
+           id="circle32"
+           r="1"
+           cy="715.13123"
+           cx="104.82051" />
+        <circle
+           id="circle34"
+           r="1"
+           cy="871.89404"
+           cx="266.99033" />
+        <circle
+           id="circle36"
+           r="1"
+           cy="770.73267"
+           cx="204.625" />
+        <circle
+           id="circle38"
+           r="1"
+           cy="907.99768"
+           cx="204.625" />
+        <circle
+           id="circle40"
+           r="1"
+           cy="886.22803"
+           cx="242.71814" />
+        <circle
+           id="circle42"
+           r="2"
+           cy="968.01306"
+           cx="90.725082" />
+        <circle
+           id="circle44"
+           r="2"
+           cy="839.36517"
+           cx="313.54984" />
+        <path
+           id="path46"
+           d="M 105.5,942.42217 284,839.36515 105.5,736.30813 l 0,206.11404 z" />
+        <circle
+           id="circle48"
+           r="1"
+           cy="839.36517"
+           cx="114.75" />
+        <circle
+           id="circle50"
+           r="1"
+           cy="839.36517"
+           cx="265.5" />
+        <circle
+           id="circle52"
+           r="1"
+           cy="770.76263"
+           cx="115" />
+        <circle
+           id="circle54"
+           r="1"
+           cy="761.76263"
+           cx="130.58846" />
+        <circle
+           id="circle56"
+           r="1"
+           cy="752.32959"
+           cx="114.75" />
+        <circle
+           id="circle58"
+           r="1"
+           cy="848.36517"
+           cx="249.41154" />
+        <circle
+           id="circle60"
+           r="1"
+           cy="926.4007"
+           cx="114.75" />
+        <circle
+           id="circle62"
+           r="1"
+           cy="907.96771"
+           cx="115" />
+        <path
+           id="path64"
+           d="M 117.5,921.63756 260,839.36515 117.5,757.09274 l 0,164.54482 z" />
+        <circle
+           id="circle66"
+           r="1"
+           cy="882.88293"
+           cx="190.125" />
+        <circle
+           id="circle68"
+           r="1"
+           cy="830.36517"
+           cx="249.41154" />
+        <circle
+           id="circle70"
+           r="1"
+           cy="795.84735"
+           cx="190.125" />
+        <circle
+           id="circle72"
+           r="1"
+           cy="916.96771"
+           cx="130.58846" />
+      </g>
+    </g>
+    <g
+       id="g74"
+       lc:blockname="MYLAYER004">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g76"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="0" />
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g78"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="Body_Slices">
+        <path
+           id="path80"
+           d="m 315.47372,274.58695 0,1.56846 -30,0 0,7.26595 30,0 0,1.56845 5,0 0,0.29857 -56.98419,32.89984 -2.5,-4.33012 -1.02132,0.58965 -7.5,-12.99038 -12.12435,7 7.5,12.99038 -0.71074,0.41035 2.5,4.33012 -157.606841,90.99435 -9.526279,-5.5 0,-263.78838 9.526279,-5.5 228.447441,131.89419 0,0.29857 -5,0 z" />
+        <circle
+           id="circle82"
+           r="1"
+           cy="279.78839"
+           cx="85.75" />
+        <circle
+           id="circle84"
+           r="1"
+           cy="394.02231"
+           cx="87.5" />
+        <circle
+           id="circle86"
+           r="1"
+           cy="348.39093"
+           cx="115" />
+        <circle
+           id="circle88"
+           r="1"
+           cy="269.78839"
+           cx="302.6795" />
+        <circle
+           id="circle90"
+           r="2"
+           cy="408.43631"
+           cx="90.725082" />
+        <circle
+           id="circle92"
+           r="1"
+           cy="404.02231"
+           cx="104.82051" />
+        <circle
+           id="circle94"
+           r="1"
+           cy="357.39093"
+           cx="130.58846" />
+        <circle
+           id="circle96"
+           r="1"
+           cy="211.18584"
+           cx="115" />
+        <circle
+           id="circle98"
+           r="1"
+           cy="366.82394"
+           cx="114.75" />
+        <circle
+           id="circle100"
+           r="1"
+           cy="289.78839"
+           cx="302.6795" />
+        <path
+           id="path102"
+           d="m 110,244.78838 -19,0 0,70 19,0 0,-70 z" />
+        <circle
+           id="circle104"
+           r="1"
+           cy="279.78839"
+           cx="114.75" />
+        <circle
+           id="circle106"
+           r="1"
+           cy="202.18584"
+           cx="130.58846" />
+        <circle
+           id="circle108"
+           r="1"
+           cy="288.78839"
+           cx="249.41154" />
+        <path
+           id="path110"
+           d="M 117.5,362.0608 260,279.78838 117.5,197.51597 l 0,164.54483 z" />
+        <circle
+           id="circle112"
+           r="1"
+           cy="326.65125"
+           cx="242.71814" />
+        <path
+           id="path114"
+           d="m 232.62178,326.78838 -9.5,-16.45448 -60.62178,35 9.5,16.45448 60.62178,-35 z" />
+        <circle
+           id="circle116"
+           r="1"
+           cy="348.4209"
+           cx="204.625" />
+        <circle
+           id="circle118"
+           r="1"
+           cy="323.30615"
+           cx="190.125" />
+        <path
+           id="path120"
+           d="m 223.62178,249.78838 9.5,-16.45448 -60.62178,-35 -9.5,16.45448 60.62178,35 z" />
+        <circle
+           id="circle122"
+           r="1"
+           cy="236.2706"
+           cx="190.125" />
+        <circle
+           id="circle124"
+           r="1"
+           cy="211.15587"
+           cx="204.625" />
+        <circle
+           id="circle126"
+           r="1"
+           cy="270.78839"
+           cx="249.41154" />
+        <circle
+           id="circle128"
+           r="1"
+           cy="279.78839"
+           cx="265.5" />
+        <circle
+           id="circle130"
+           r="1"
+           cy="312.31729"
+           cx="266.99033" />
+        <circle
+           id="circle132"
+           r="1"
+           cy="155.55444"
+           cx="104.82051" />
+        <circle
+           id="circle134"
+           r="1"
+           cy="192.75282"
+           cx="114.75" />
+        <circle
+           id="circle136"
+           r="1"
+           cy="165.55444"
+           cx="87.5" />
+        <circle
+           id="circle138"
+           r="2"
+           cy="151.14046"
+           cx="90.725082" />
+      </g>
+    </g>
+    <g
+       id="g140"
+       lc:blockname="MYLAYER003">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g142"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="0" />
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g144"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="Body_Slices">
+        <path
+           id="path146"
+           d="m 558.44744,554.85133 0,1.82631 -30,0 0,5.79825 30,0 0,1.82631 5,0 0,0.77457 -56.98419,32.89984 -2.5,-4.33013 -13.85641,8 2.5,4.33013 L 335,696.97096 l -9.52628,-5.5 0,-263.78839 9.52628,-5.5 228.44744,131.8942 0,0.77456 -5,0 z" />
+        <circle
+           id="circle148"
+           r="1"
+           cy="628.17932"
+           cx="357.97372" />
+        <circle
+           id="circle150"
+           r="1"
+           cy="592.10565"
+           cx="509.96405" />
+        <circle
+           id="circle152"
+           r="1"
+           cy="472.5412"
+           cx="357.72372" />
+        <circle
+           id="circle154"
+           r="1"
+           cy="569.57678"
+           cx="545.6532" />
+        <circle
+           id="circle156"
+           r="1"
+           cy="490.97421"
+           cx="357.97372" />
+        <circle
+           id="circle158"
+           r="1"
+           cy="435.34283"
+           cx="347.79422" />
+        <circle
+           id="circle160"
+           r="2"
+           cy="688.22467"
+           cx="333.69879" />
+        <circle
+           id="circle162"
+           r="1"
+           cy="637.17932"
+           cx="373.56216" />
+        <circle
+           id="circle164"
+           r="1"
+           cy="646.6123"
+           cx="357.72372" />
+        <circle
+           id="circle166"
+           r="1"
+           cy="559.57678"
+           cx="508.47372" />
+        <circle
+           id="circle168"
+           r="1"
+           cy="673.81073"
+           cx="330.47372" />
+        <circle
+           id="circle170"
+           r="1"
+           cy="559.57678"
+           cx="357.72372" />
+        <circle
+           id="circle172"
+           r="1"
+           cy="603.09454"
+           cx="433.09872" />
+        <circle
+           id="circle174"
+           r="1"
+           cy="628.20929"
+           cx="447.59872" />
+        <path
+           id="path176"
+           d="m 475.5955,606.57677 -9.5,-16.45449 -60.62178,35 9.5,16.45449 60.62178,-35 z" />
+        <circle
+           id="circle178"
+           r="1"
+           cy="481.97421"
+           cx="373.56216" />
+        <circle
+           id="circle180"
+           r="1"
+           cy="516.05896"
+           cx="433.09872" />
+        <circle
+           id="circle182"
+           r="1"
+           cy="490.94424"
+           cx="447.59872" />
+        <path
+           id="path184"
+           d="m 466.5955,529.57677 9.5,-16.45449 -60.62178,-35 -9.5,16.45449 60.62178,35 z" />
+        <circle
+           id="circle186"
+           r="1"
+           cy="683.81073"
+           cx="347.79422" />
+        <path
+           id="path188"
+           d="m 352.97372,524.57677 -19,0 0,70 19,0 0,-70 z" />
+        <circle
+           id="circle190"
+           r="1"
+           cy="445.34283"
+           cx="330.47372" />
+        <circle
+           id="circle192"
+           r="1"
+           cy="559.57678"
+           cx="328.72372" />
+        <circle
+           id="circle194"
+           r="1"
+           cy="550.57678"
+           cx="492.38525" />
+        <path
+           id="path196"
+           d="m 360.47372,641.84918 142.5,-82.27241 -142.5,-82.27242 0,164.54483 z" />
+        <circle
+           id="circle198"
+           r="1"
+           cy="568.57678"
+           cx="492.38525" />
+        <circle
+           id="circle200"
+           r="1"
+           cy="606.43964"
+           cx="485.69186" />
+        <circle
+           id="circle202"
+           r="2"
+           cy="430.92883"
+           cx="333.69879" />
+        <circle
+           id="circle204"
+           r="1"
+           cy="549.57678"
+           cx="545.6532" />
+      </g>
+    </g>
+    <g
+       id="g206"
+       lc:blockname="MYLAYER002">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g208"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="0" />
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g210"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="Body_Slices">
+        <path
+           id="path212"
+           d="m 92.026279,696.97096 -9.526279,-5.5 0,-263.78839 9.526279,-5.5 228.447441,131.8942 0,11 -228.447441,131.89419 z" />
+        <circle
+           id="circle214"
+           r="1"
+           cy="490.94424"
+           cx="204.625" />
+        <circle
+           id="circle216"
+           r="1"
+           cy="569.57678"
+           cx="302.6795" />
+        <circle
+           id="circle218"
+           r="2"
+           cy="559.57678"
+           cx="313.54984" />
+        <circle
+           id="circle220"
+           r="1"
+           cy="472.5412"
+           cx="114.75" />
+        <circle
+           id="circle222"
+           r="1"
+           cy="673.81073"
+           cx="87.5" />
+        <path
+           id="path224"
+           d="m 300,558.07677 -12,0 a 1.5,1.5 0 0 0 0,3 l 12,0 a 1.5,1.5 0 0 0 0,-3 z" />
+        <path
+           id="path226"
+           d="m 110,524.57677 -19,0 0,70 19,0 0,-70 z" />
+        <circle
+           id="circle228"
+           r="1"
+           cy="637.17932"
+           cx="130.58846" />
+        <circle
+           id="circle230"
+           r="1"
+           cy="435.34283"
+           cx="104.82051" />
+        <circle
+           id="circle232"
+           r="2"
+           cy="430.92883"
+           cx="90.725082" />
+        <circle
+           id="circle234"
+           r="1"
+           cy="549.57678"
+           cx="302.6795" />
+        <circle
+           id="circle236"
+           r="1"
+           cy="445.34283"
+           cx="87.5" />
+        <path
+           id="path238"
+           d="m 223.62178,529.57677 9.5,-16.45449 -60.62178,-35 -9.5,16.45449 60.62178,35 z" />
+        <circle
+           id="circle240"
+           r="1"
+           cy="550.57678"
+           cx="249.41154" />
+        <circle
+           id="circle242"
+           r="1"
+           cy="592.10565"
+           cx="266.99033" />
+        <circle
+           id="circle244"
+           r="1"
+           cy="559.57678"
+           cx="265.5" />
+        <path
+           id="path246"
+           d="m 232.62178,606.57677 -9.5,-16.45449 -60.62178,35 9.5,16.45449 60.62178,-35 z" />
+        <circle
+           id="circle248"
+           r="1"
+           cy="603.09454"
+           cx="190.125" />
+        <circle
+           id="circle250"
+           r="1"
+           cy="628.20929"
+           cx="204.625" />
+        <path
+           id="path252"
+           d="M 117.5,641.84918 260,559.57677 117.5,477.30435 l 0,164.54483 z" />
+        <circle
+           id="circle254"
+           r="1"
+           cy="568.57678"
+           cx="249.41154" />
+        <circle
+           id="circle256"
+           r="1"
+           cy="606.43964"
+           cx="242.71814" />
+        <circle
+           id="circle258"
+           r="1"
+           cy="516.05896"
+           cx="190.125" />
+        <circle
+           id="circle260"
+           r="1"
+           cy="481.97421"
+           cx="130.58846" />
+        <circle
+           id="circle262"
+           r="1"
+           cy="490.97421"
+           cx="115" />
+        <circle
+           id="circle264"
+           r="1"
+           cy="628.17932"
+           cx="115" />
+        <circle
+           id="circle266"
+           r="1"
+           cy="559.57678"
+           cx="114.75" />
+        <circle
+           id="circle268"
+           r="2"
+           cy="688.22467"
+           cx="90.725082" />
+        <circle
+           id="circle270"
+           r="1"
+           cy="683.81073"
+           cx="104.82051" />
+        <circle
+           id="circle272"
+           r="1"
+           cy="646.6123"
+           cx="114.75" />
+        <circle
+           id="circle274"
+           r="1"
+           cy="559.57678"
+           cx="85.75" />
+      </g>
+    </g>
+    <g
+       id="g276"
+       lc:blockname="MYLAYER001">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g278"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="0" />
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g280"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="Body_Slices">
+        <path
+           id="path282"
+           d="m 335,976.75934 -9.52628,-5.5 0,-263.78838 9.52628,-5.5 228.44744,131.89419 0,11 L 335,976.75934 Z" />
+        <circle
+           id="circle284"
+           r="1"
+           cy="829.36517"
+           cx="545.6532" />
+        <circle
+           id="circle286"
+           r="1"
+           cy="839.36517"
+           cx="508.47372" />
+        <path
+           id="path288"
+           d="m 542.97372,837.86515 -12,0 a 1.5,1.5 0 0 0 0,3 l 12,0 a 1.5,1.5 0 0 0 0,-3 z" />
+        <circle
+           id="circle290"
+           r="1"
+           cy="770.76263"
+           cx="357.97372" />
+        <circle
+           id="circle292"
+           r="1"
+           cy="715.13123"
+           cx="347.79422" />
+        <circle
+           id="circle294"
+           r="1"
+           cy="848.36517"
+           cx="492.38525" />
+        <circle
+           id="circle296"
+           r="1"
+           cy="886.22803"
+           cx="485.69186" />
+        <circle
+           id="circle298"
+           r="1"
+           cy="770.73267"
+           cx="447.59872" />
+        <circle
+           id="circle300"
+           r="2"
+           cy="968.01306"
+           cx="333.69879" />
+        <circle
+           id="circle302"
+           r="1"
+           cy="752.32959"
+           cx="357.72372" />
+        <circle
+           id="circle304"
+           r="1"
+           cy="953.59906"
+           cx="330.47372" />
+        <circle
+           id="circle306"
+           r="1"
+           cy="839.36517"
+           cx="328.72372" />
+        <circle
+           id="circle308"
+           r="2"
+           cy="839.36517"
+           cx="556.52356" />
+        <circle
+           id="circle310"
+           r="1"
+           cy="849.36517"
+           cx="545.6532" />
+        <circle
+           id="circle312"
+           r="1"
+           cy="830.36517"
+           cx="492.38525" />
+        <path
+           id="path314"
+           d="m 360.47372,921.63756 142.5,-82.27241 -142.5,-82.27241 0,164.54482 z" />
+        <circle
+           id="circle316"
+           r="1"
+           cy="882.88293"
+           cx="433.09872" />
+        <circle
+           id="circle318"
+           r="1"
+           cy="907.99768"
+           cx="447.59872" />
+        <circle
+           id="circle320"
+           r="1"
+           cy="761.76263"
+           cx="373.56216" />
+        <circle
+           id="circle322"
+           r="1"
+           cy="795.84735"
+           cx="433.09872" />
+        <circle
+           id="circle324"
+           r="1"
+           cy="916.96771"
+           cx="373.56216" />
+        <circle
+           id="circle326"
+           r="1"
+           cy="871.89404"
+           cx="509.96405" />
+        <circle
+           id="circle328"
+           r="1"
+           cy="963.59906"
+           cx="347.79422" />
+        <circle
+           id="circle330"
+           r="1"
+           cy="907.96771"
+           cx="357.97372" />
+        <circle
+           id="circle332"
+           r="1"
+           cy="926.4007"
+           cx="357.72372" />
+        <circle
+           id="circle334"
+           r="1"
+           cy="839.36517"
+           cx="357.72372" />
+        <circle
+           id="circle336"
+           r="1"
+           cy="725.13123"
+           cx="330.47372" />
+        <circle
+           id="circle338"
+           r="2"
+           cy="710.71722"
+           cx="333.69879" />
+      </g>
+    </g>
+    <g
+       id="g340"
+       lc:blockname="MYLAYER005">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g342"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="0" />
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g344"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="Body_Slices">
+        <path
+           id="path346"
+           d="m 558.44744,276.07624 0,3.16564 a 2,2 0 1 0 0,1.09301 l 0,3.16564 5,0 0,1.78785 -56.98419,32.89984 -2.5,-4.33012 -1.02132,0.58965 -7.5,-12.99038 -12.12435,7 7.5,12.99038 -0.71074,0.41035 2.5,4.33012 L 335,417.18257 l -9.52628,-5.5 0,-263.78838 9.52628,-5.5 228.44744,131.89419 0,1.78786 -5,0 z" />
+        <circle
+           id="circle348"
+           r="1"
+           cy="211.15587"
+           cx="447.59872" />
+        <path
+           id="path350"
+           d="m 466.5955,249.78838 9.5,-16.45448 -60.62178,-35 -9.5,16.45448 60.62178,35 z" />
+        <circle
+           id="circle352"
+           r="1"
+           cy="165.55444"
+           cx="330.47372" />
+        <circle
+           id="circle354"
+           r="1"
+           cy="155.55444"
+           cx="347.79422" />
+        <circle
+           id="circle356"
+           r="2"
+           cy="408.43631"
+           cx="333.69879" />
+        <circle
+           id="circle358"
+           r="1"
+           cy="211.18584"
+           cx="357.97372" />
+        <circle
+           id="circle360"
+           r="1"
+           cy="312.31729"
+           cx="509.96405" />
+        <circle
+           id="circle362"
+           r="1"
+           cy="269.78839"
+           cx="545.6532" />
+        <circle
+           id="circle364"
+           r="1"
+           cy="404.02231"
+           cx="347.79422" />
+        <circle
+           id="circle366"
+           r="1"
+           cy="288.78839"
+           cx="492.38525" />
+        <circle
+           id="circle368"
+           r="2"
+           cy="151.14046"
+           cx="333.69879" />
+        <circle
+           id="circle370"
+           r="1"
+           cy="357.39093"
+           cx="373.56216" />
+        <path
+           id="path372"
+           d="m 475.5955,326.78838 -9.5,-16.45448 -60.62178,35 9.5,16.45448 60.62178,-35 z" />
+        <path
+           id="path374"
+           d="m 500.97372,266.58838 35,0 0,11.7 7,0 a 1.5,1.5 0 1 1 0,3 l -7,0 0,11.8 -35,0 0,-12.1453 -140.5,81.11772 0,-164.54483 140.5,81.11771 0,-12.0453 z" />
+        <circle
+           id="circle376"
+           r="1"
+           cy="202.18584"
+           cx="373.56216" />
+        <circle
+           id="circle378"
+           r="1"
+           cy="270.78839"
+           cx="492.38525" />
+        <circle
+           id="circle380"
+           r="1"
+           cy="236.2706"
+           cx="433.09872" />
+        <circle
+           id="circle382"
+           r="1"
+           cy="326.65125"
+           cx="485.69186" />
+        <circle
+           id="circle384"
+           r="1"
+           cy="348.4209"
+           cx="447.59872" />
+        <circle
+           id="circle386"
+           r="1"
+           cy="323.30615"
+           cx="433.09872" />
+        <path
+           id="path388"
+           d="m 352.97372,244.78838 -19,0 0,70 19,0 0,-70 z" />
+        <circle
+           id="circle390"
+           r="1"
+           cy="394.02231"
+           cx="330.47372" />
+        <circle
+           id="circle392"
+           r="1"
+           cy="366.82394"
+           cx="357.72372" />
+        <circle
+           id="circle394"
+           r="1"
+           cy="348.39093"
+           cx="357.97372" />
+        <circle
+           id="circle396"
+           r="1"
+           cy="279.78839"
+           cx="328.72372" />
+        <circle
+           id="circle398"
+           r="1"
+           cy="279.78839"
+           cx="357.72372" />
+        <circle
+           id="circle400"
+           r="1"
+           cy="192.75282"
+           cx="357.72372" />
+        <circle
+           id="circle402"
+           r="1"
+           cy="289.78839"
+           cx="545.6532" />
+      </g>
+    </g>
+    <g
+       id="g404"
+       lc:blockname="MYLAYER007">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g406"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="0" />
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g408"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="Body_Slices">
+        <path
+           id="path410"
+           d="m 335,137.39419 -9.52628,-5.5 0,-263.78838 9.52628,-5.5 L 563.44744,-5.5 l 0,11 L 335,137.39419 Z" />
+        <circle
+           id="circle412"
+           r="1"
+           cy="0"
+           cx="328.72372" />
+        <circle
+           id="circle414"
+           r="2"
+           cy="0"
+           cx="556.52356" />
+        <circle
+           id="circle416"
+           r="2"
+           cy="-128.64793"
+           cx="333.69879" />
+        <circle
+           id="circle418"
+           r="1"
+           cy="124.23394"
+           cx="347.79422" />
+        <circle
+           id="circle420"
+           r="1"
+           cy="114.23394"
+           cx="330.47372" />
+        <circle
+           id="circle422"
+           r="1"
+           cy="46.862854"
+           cx="485.69186" />
+        <circle
+           id="circle424"
+           r="1"
+           cy="68.632515"
+           cx="447.59872" />
+        <circle
+           id="circle426"
+           r="1"
+           cy="-68.632515"
+           cx="447.59872" />
+        <circle
+           id="circle428"
+           r="1"
+           cy="-124.23394"
+           cx="347.79422" />
+        <circle
+           id="circle430"
+           r="1"
+           cy="-114.23394"
+           cx="330.47372" />
+        <circle
+           id="circle432"
+           r="1"
+           cy="32.5289"
+           cx="509.96405" />
+        <circle
+           id="circle434"
+           r="2"
+           cy="128.64793"
+           cx="333.69879" />
+        <circle
+           id="circle436"
+           r="1"
+           cy="-10"
+           cx="545.6532" />
+        <path
+           id="path438"
+           d="m 331.97372,-105.6551 0,211.3102 a 15,15 0 0 0 22.5,12.99038 l 183,-105.655099 a 15,15 0 0 0 0,-25.980762 l -183,-105.655099 a 15,15 0 0 0 -22.5,12.99038 z" />
+        <circle
+           id="circle440"
+           r="1"
+           cy="10"
+           cx="545.6532" />
+        <path
+           id="path442"
+           d="M 360.47372,82.272413 492.58142,6 l 8.3923,0 0,1.5055535 -146,84.2931395 0,-183.597386 146,84.2931395 0,1.5055535 -8.3923,0 -132.1077,-76.272413 0,164.544826 z" />
+        <circle
+           id="circle444"
+           r="1"
+           cy="87.035553"
+           cx="357.72372" />
+        <circle
+           id="circle446"
+           r="1"
+           cy="-87.035553"
+           cx="357.72372" />
+        <circle
+           id="circle448"
+           r="1"
+           cy="-43.517776"
+           cx="433.09872" />
+        <circle
+           id="circle450"
+           r="1"
+           cy="68.602539"
+           cx="357.97372" />
+        <circle
+           id="circle452"
+           r="1"
+           cy="77.602539"
+           cx="373.56216" />
+        <circle
+           id="circle454"
+           r="1"
+           cy="43.517776"
+           cx="433.09872" />
+        <circle
+           id="circle456"
+           r="1"
+           cy="0"
+           cx="357.72372" />
+        <circle
+           id="circle458"
+           r="1"
+           cy="-77.602539"
+           cx="373.56216" />
+        <circle
+           id="circle460"
+           r="1"
+           cy="-68.602539"
+           cx="357.97372" />
+        <circle
+           id="circle462"
+           r="1"
+           cy="-9"
+           cx="492.38525" />
+        <circle
+           id="circle464"
+           r="1"
+           cy="9"
+           cx="492.38525" />
+      </g>
+    </g>
+    <g
+       id="g466"
+       lc:blockname="MYLAYER006">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g468"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="0" />
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g470"
+         lc:is_construction="false"
+         lc:is_locked="false"
+         lc:layername="Body_Slices">
+        <path
+           id="path472"
+           d="m 263.48953,38.39984 -2.5,-4.330127 -1.02132,0.589656 -0.75,-1.299038 L 294.5,12.990381 a 15,15 0 0 0 0,-25.980762 L 111.5,-118.64548 A 15,15 0 0 0 89,-105.6551 l 0,211.3102 a 15,15 0 0 0 22.5,12.99038 l 135.59386,-78.285149 0.75,1.299038 -0.71074,0.410344 2.5,4.330127 -157.606841,90.99435 -9.526279,-5.5 0,-263.78838 9.526279,-5.5 L 320.47372,-5.5 l 0,11 -56.98419,32.89984 z" />
+        <circle
+           id="circle474"
+           r="1"
+           cy="114.23394"
+           cx="87.5" />
+        <circle
+           id="circle476"
+           r="2"
+           cy="0"
+           cx="313.54984" />
+        <circle
+           id="circle478"
+           r="1"
+           cy="-114.23394"
+           cx="87.5" />
+        <circle
+           id="circle480"
+           r="1"
+           cy="-68.632515"
+           cx="204.625" />
+        <circle
+           id="circle482"
+           r="1"
+           cy="0"
+           cx="85.75" />
+        <circle
+           id="circle484"
+           r="1"
+           cy="68.632515"
+           cx="204.625" />
+        <circle
+           id="circle486"
+           r="1"
+           cy="46.862854"
+           cx="242.71814" />
+        <circle
+           id="circle488"
+           r="1"
+           cy="10"
+           cx="302.6795" />
+        <circle
+           id="circle490"
+           r="1"
+           cy="32.5289"
+           cx="266.99033" />
+        <circle
+           id="circle492"
+           r="1"
+           cy="-10"
+           cx="302.6795" />
+        <circle
+           id="circle494"
+           r="2"
+           cy="-128.64793"
+           cx="90.725082" />
+        <circle
+           id="circle496"
+           r="1"
+           cy="-124.23394"
+           cx="104.82051" />
+        <circle
+           id="circle498"
+           r="2"
+           cy="128.64793"
+           cx="90.725082" />
+        <circle
+           id="circle500"
+           r="1"
+           cy="124.23394"
+           cx="104.82051" />
+        <path
+           id="path502"
+           d="M 117.5,82.272413 258,1.1547005 l 0,6.350853 -146,84.2931395 0,-183.597386 146,84.2931395 0,6.350853 -140.5,-81.1177125 0,164.544826 z" />
+        <circle
+           id="circle504"
+           r="1"
+           cy="-68.602539"
+           cx="115" />
+        <circle
+           id="circle506"
+           r="1"
+           cy="68.602539"
+           cx="115" />
+        <circle
+           id="circle508"
+           r="1"
+           cy="87.035553"
+           cx="114.75" />
+        <circle
+           id="circle510"
+           r="1"
+           cy="77.602539"
+           cx="130.58846" />
+        <circle
+           id="circle512"
+           r="1"
+           cy="9"
+           cx="249.41154" />
+        <circle
+           id="circle514"
+           r="1"
+           cy="-9"
+           cx="249.41154" />
+        <circle
+           id="circle516"
+           r="1"
+           cy="-77.602539"
+           cx="130.58846" />
+        <circle
+           id="circle518"
+           r="1"
+           cy="0"
+           cx="114.75" />
+        <circle
+           id="circle520"
+           r="1"
+           cy="43.517776"
+           cx="190.125" />
+        <circle
+           id="circle522"
+           r="1"
+           cy="-43.517776"
+           cx="190.125" />
+        <circle
+           id="circle524"
+           r="1"
+           cy="-87.035553"
+           cx="114.75" />
+      </g>
+    </g>
+  </g>
+</svg>
