@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:lc="http://www.librecad.org"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="544.75762114mm"
+   height="473.11368477mm"
+   viewBox="0 0 544.75762114 473.11368477"
+   version="1.1"
+   id="svg618"
+   sodipodi:docname="Tech-Tri-V089-LaserSect-MakerCam-Libre.svg">
+  <metadata
+     id="metadata624">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs622" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview620"
+     showgrid="false" />
+  <g
+     lc:layername="0"
+     lc:is_locked="false"
+     lc:is_construction="false"
+     fill="none"
+     stroke="black"
+     stroke-width="1"
+     id="g2" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1"
+     id="g76"
+     lc:blockname="MYLAYER"
+     transform="rotate(-60,194.99196,-95.274375)">
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g4"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="0" />
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g74"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="Body_Slices">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6"
+         d="m 267.37881,403.06593 -8.05,13.94301 H 97.17627 l -8.05,-13.94301 81.07627,-140.42822 h 16.1 z" />
+      <circle
+         id="circle8"
+         r="1.85"
+         cy="390.56445"
+         cx="256.62561" />
+      <circle
+         id="circle10"
+         r="0.99000001"
+         cy="403.74979"
+         cx="91.541817" />
+      <circle
+         id="circle12"
+         r="0.99000001"
+         cy="403.74979"
+         cx="264.96326" />
+      <circle
+         id="circle14"
+         r="1.85"
+         cy="413.94714"
+         cx="243.12563" />
+      <circle
+         id="circle16"
+         r="1.85"
+         cy="390.56445"
+         cx="99.879456" />
+      <circle
+         id="circle18"
+         r="0.99000001"
+         cy="414.5751"
+         cx="97.791817" />
+      <circle
+         id="circle20"
+         r="0.99000001"
+         cy="414.00894"
+         cx="140.76508" />
+      <circle
+         id="circle22"
+         r="0.99000001"
+         cy="301.88672"
+         cx="151.00621" />
+      <circle
+         id="circle24"
+         r="0.99000001"
+         cy="333.66003"
+         cx="225.43668" />
+      <circle
+         id="circle26"
+         r="0.99000001"
+         cy="264.38773"
+         cx="172.00253" />
+      <circle
+         id="circle28"
+         r="0.99000001"
+         cy="333.6636"
+         cx="131.06633" />
+      <circle
+         id="circle30"
+         r="0.99000001"
+         cy="414.5751"
+         cx="258.71326" />
+      <circle
+         id="circle32"
+         r="1.85"
+         cy="278.20099"
+         cx="191.75253" />
+      <circle
+         id="circle34"
+         r="1.85"
+         cy="278.20099"
+         cx="164.75253" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path36"
+         d="m 152.36056,305.54093 -2.38157,-1.375 -35,60.62178 2.38157,1.375 -14.63365,25.34623 a 13,13 0 0 0 11.25833,19.5 h 29.2673 v 2.75 h 70 v -2.75 h 29.26731 a 13,13 0 0 0 1.13124,-0.0493 l 3.28971,1.89931 2.07096,-3.58701 a 13,13 0 0 0 6.50808,-11.27233 l 2.07096,-3.587 -3.28971,-1.89932 a 13,13 0 0 0 -0.52291,-1.00434 l -14.63366,-25.34623 2.38157,-1.375 -35,-60.62178 -2.38157,1.375 -14.63365,-25.34623 a 13,13 0 0 0 -22.51666,0 z" />
+      <circle
+         id="circle38"
+         r="1.85"
+         cy="413.94714"
+         cx="113.37946" />
+      <circle
+         id="circle40"
+         r="0.99000001"
+         cy="414.00894"
+         cx="215.74001" />
+      <circle
+         id="circle42"
+         r="0.99000001"
+         cy="366.81693"
+         cx="113.51875" />
+      <circle
+         id="circle44"
+         r="0.99000001"
+         cy="301.88672"
+         cx="205.49887" />
+      <circle
+         id="circle46"
+         r="0.99000001"
+         cy="366.81693"
+         cx="242.98633" />
+      <circle
+         id="circle48"
+         r="0.99000001"
+         cy="264.38773"
+         cx="184.50253" />
+      <circle
+         id="circle50"
+         r="0.99000001"
+         cy="415.38895"
+         cx="178.25461" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path52"
+         d="m 187.77882,303.1947 5.10737,8.84623 -2.38157,1.375 35,60.62178 2.38157,-1.375 5.10738,8.84623 a 11,11 0 0 1 0.89031,1.96524 l -8.26948,14.32318 a 11,11 0 0 1 -2.14711,0.21158 h -10.21475 v -2.75 h -70 v 2.75 h -10.21475 a 11,11 0 0 1 -9.52628,-16.5 l 5.10738,-8.84623 2.38157,1.375 35,-60.62178 -2.38157,-1.375 5.10737,-8.84623 a 11,11 0 0 1 19.05256,0 z" />
+      <circle
+         id="circle54"
+         r="0.99000001"
+         cy="311.38672"
+         cx="189.04439" />
+      <circle
+         id="circle56"
+         r="0.99000001"
+         cy="311.38672"
+         cx="167.46069" />
+      <circle
+         id="circle58"
+         r="0.99000001"
+         cy="393.62894"
+         cx="178.25047" />
+      <circle
+         id="circle60"
+         r="0.99000001"
+         cy="344.54361"
+         cx="206.59404" />
+      <circle
+         id="circle62"
+         r="0.99000001"
+         cy="395.00894"
+         cx="140.76508" />
+      <circle
+         id="circle64"
+         r="0.99000001"
+         cy="344.54004"
+         cx="149.91312" />
+      <circle
+         id="circle66"
+         r="0.99000001"
+         cy="395.00894"
+         cx="215.74001" />
+      <circle
+         id="circle68"
+         r="0.99000001"
+         cy="376.31693"
+         cx="129.97324" />
+      <circle
+         id="circle70"
+         r="0.99000001"
+         cy="376.31693"
+         cx="226.53185" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path72"
+         d="m 174.25254,305.6229 -45.875,79.45784 4,6.9282 h 91.75 l 4,-6.9282 -45.875,-79.45784 z" />
+    </g>
+  </g>
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1"
+     id="g156"
+     lc:blockname="MYLAYER005"
+     transform="translate(36.92686,-166.43078)">
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g78"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="0" />
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g154"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="Body_Slices">
+      <path
+         inkscape:connector-curvature="0"
+         id="path80"
+         d="m 633.88389,243.6947 -8.05,13.94301 H 463.68135 l -8.05,-13.94301 60.32627,-104.48816 4.33013,2.5 0.475,-0.82273 13.42339,7.75 6.8,-11.77794 -13.42339,-7.75 0.475,-0.82273 -4.33013,-2.5 13,-22.51666 h 16.1 z" />
+      <circle
+         id="circle82"
+         r="0.99000001"
+         cy="216.94569"
+         cx="496.4783" />
+      <circle
+         id="circle84"
+         r="1.85"
+         cy="118.82976"
+         cx="558.25763" />
+      <circle
+         id="circle86"
+         r="0.99000001"
+         cy="255.20386"
+         cx="464.29691" />
+      <circle
+         id="circle88"
+         r="0.99000001"
+         cy="105.01648"
+         cx="538.50763" />
+      <circle
+         id="circle90"
+         r="0.99000001"
+         cy="244.37854"
+         cx="631.46832" />
+      <circle
+         id="circle92"
+         r="1.85"
+         cy="254.57591"
+         cx="479.88455" />
+      <circle
+         id="circle94"
+         r="0.99000001"
+         cy="244.37854"
+         cx="458.04691" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path96"
+         d="m 540.75762,146.25168 -45.875,79.45783 4,6.9282 h 91.75 l 4,-6.9282 -45.875,-79.45783 z" />
+      <circle
+         id="circle98"
+         r="0.99000001"
+         cy="152.01549"
+         cx="555.54944" />
+      <circle
+         id="circle100"
+         r="0.99000001"
+         cy="185.16881"
+         cx="516.41821" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path102"
+         d="m 481.48407,205.41648 16.02147,9.25 35,-60.62178 -16.02147,-9.25 z" />
+      <circle
+         id="circle104"
+         r="0.99000001"
+         cy="174.29239"
+         cx="497.57141" />
+      <circle
+         id="circle106"
+         r="0.99000001"
+         cy="185.17238"
+         cx="573.09912" />
+      <circle
+         id="circle108"
+         r="0.99000001"
+         cy="216.94569"
+         cx="593.03693" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path110"
+         d="m 624.09588,235.04137 -16.02147,-9.25 3,-5.19615 -4.76314,-2.75 -3,5.19615 -1.73205,-1 -10.65,18.44634 22.51666,13 z" />
+      <circle
+         id="circle112"
+         r="1.85"
+         cy="254.57591"
+         cx="609.63068" />
+      <circle
+         id="circle114"
+         r="1.85"
+         cy="231.19322"
+         cx="623.13068" />
+      <circle
+         id="circle116"
+         r="0.99000001"
+         cy="255.20386"
+         cx="625.21832" />
+      <circle
+         id="circle118"
+         r="0.99000001"
+         cy="235.63771"
+         cx="507.27014" />
+      <circle
+         id="circle120"
+         r="0.99000001"
+         cy="207.44569"
+         cx="609.49139" />
+      <circle
+         id="circle122"
+         r="0.99000001"
+         cy="152.01549"
+         cx="533.96576" />
+      <circle
+         id="circle124"
+         r="0.99000001"
+         cy="174.2888"
+         cx="591.94177" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path126"
+         d="m 592.0097,214.66648 16.02147,-9.25 -35,-60.62178 -16.02147,9.25 z" />
+      <circle
+         id="circle128"
+         r="0.99000001"
+         cy="142.51549"
+         cx="572.00397" />
+      <circle
+         id="circle130"
+         r="0.99000001"
+         cy="142.51549"
+         cx="517.51129" />
+      <circle
+         id="circle132"
+         r="1.85"
+         cy="118.82976"
+         cx="531.25763" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path134"
+         d="m 543.25762,116.49251 v 19 a 1.5,1.5 0 0 0 3,0 v -19 a 1.5,1.5 0 0 0 -3,0 z" />
+      <circle
+         id="circle136"
+         r="0.99000001"
+         cy="105.01648"
+         cx="551.00763" />
+      <circle
+         id="circle138"
+         r="0.99000001"
+         cy="235.63771"
+         cx="582.24512" />
+      <circle
+         id="circle140"
+         r="0.99000001"
+         cy="234.25771"
+         cx="544.75555" />
+      <circle
+         id="circle142"
+         r="0.99000001"
+         cy="254.63771"
+         cx="507.27014" />
+      <circle
+         id="circle144"
+         r="0.99000001"
+         cy="254.63771"
+         cx="582.24512" />
+      <circle
+         id="circle146"
+         r="0.99000001"
+         cy="256.0177"
+         cx="544.7597" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path148"
+         d="m 579.75762,254.38771 v -18.5 h -70 v 18.5 z" />
+      <circle
+         id="circle150"
+         r="1.85"
+         cy="231.19322"
+         cx="466.38455" />
+      <circle
+         id="circle152"
+         r="0.99000001"
+         cy="207.44569"
+         cx="480.02383" />
+    </g>
+  </g>
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1"
+     id="g236"
+     lc:blockname="MYLAYER004"
+     transform="rotate(-60,327.4615,152.0556)">
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g158"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="0" />
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g234"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="Body_Slices">
+      <path
+         inkscape:connector-curvature="0"
+         id="path160"
+         d="m 450.63135,243.6947 -8.05,13.94301 H 280.42881 l -8.05,-13.94301 60.32627,-104.48816 4.33013,2.5 0.475,-0.82273 13.42339,7.75 6.8,-11.77794 -13.42339,-7.75 0.475,-0.82273 -4.33013,-2.5 13,-22.51666 h 16.1 z" />
+      <circle
+         id="circle162"
+         r="0.99000001"
+         cy="235.63771"
+         cx="398.99255" />
+      <circle
+         id="circle164"
+         r="0.99000001"
+         cy="105.01648"
+         cx="355.25507" />
+      <circle
+         id="circle166"
+         r="0.99000001"
+         cy="255.20386"
+         cx="281.04434" />
+      <circle
+         id="circle168"
+         r="0.99000001"
+         cy="105.01648"
+         cx="367.75507" />
+      <circle
+         id="circle170"
+         r="0.99000001"
+         cy="152.01549"
+         cx="350.71323" />
+      <circle
+         id="circle172"
+         r="0.99000001"
+         cy="142.51549"
+         cx="388.7514" />
+      <circle
+         id="circle174"
+         r="1.85"
+         cy="118.82976"
+         cx="375.00507" />
+      <circle
+         id="circle176"
+         r="0.99000001"
+         cy="152.01549"
+         cx="372.29694" />
+      <circle
+         id="circle178"
+         r="0.99000001"
+         cy="244.37854"
+         cx="448.21582" />
+      <circle
+         id="circle180"
+         r="0.99000001"
+         cy="216.94569"
+         cx="409.78439" />
+      <circle
+         id="circle182"
+         r="0.99000001"
+         cy="234.25771"
+         cx="361.50302" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path184"
+         d="m 396.50508,254.38771 v -18.5 h -70 v 18.5 z" />
+      <circle
+         id="circle186"
+         r="0.99000001"
+         cy="207.44569"
+         cx="426.23886" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path188"
+         d="m 408.75716,214.66648 16.02147,-9.25 -35,-60.62178 -16.02147,9.25 z" />
+      <circle
+         id="circle190"
+         r="0.99000001"
+         cy="185.17238"
+         cx="389.84659" />
+      <circle
+         id="circle192"
+         r="0.99000001"
+         cy="254.63771"
+         cx="398.99255" />
+      <circle
+         id="circle194"
+         r="1.85"
+         cy="254.57591"
+         cx="426.37817" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path196"
+         d="m 440.84334,235.04137 -16.02147,-9.25 3,-5.19615 -4.76314,-2.75 -3,5.19615 -1.73205,-1 -10.65,18.44634 22.51666,13 z" />
+      <circle
+         id="circle198"
+         r="1.85"
+         cy="231.19322"
+         cx="439.87817" />
+      <circle
+         id="circle200"
+         r="0.99000001"
+         cy="256.0177"
+         cx="361.50714" />
+      <circle
+         id="circle202"
+         r="0.99000001"
+         cy="142.51549"
+         cx="334.25876" />
+      <circle
+         id="circle204"
+         r="0.99000001"
+         cy="185.16881"
+         cx="333.16565" />
+      <circle
+         id="circle206"
+         r="1.85"
+         cy="254.57591"
+         cx="296.63199" />
+      <circle
+         id="circle208"
+         r="0.99000001"
+         cy="235.63771"
+         cx="324.01761" />
+      <circle
+         id="circle210"
+         r="0.99000001"
+         cy="254.63771"
+         cx="324.01761" />
+      <circle
+         id="circle212"
+         r="0.99000001"
+         cy="207.44569"
+         cx="296.7713" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path214"
+         d="m 298.23153,205.41648 16.02147,9.25 35,-60.62178 -16.02147,-9.25 z" />
+      <circle
+         id="circle216"
+         r="0.99000001"
+         cy="174.29239"
+         cx="314.31888" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path218"
+         d="m 357.50508,146.25168 -45.875,79.45783 4,6.9282 h 91.75 l 4,-6.9282 -45.875,-79.45783 z" />
+      <circle
+         id="circle220"
+         r="0.99000001"
+         cy="216.94569"
+         cx="313.22577" />
+      <circle
+         id="circle222"
+         r="0.99000001"
+         cy="174.2888"
+         cx="408.68921" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path224"
+         d="m 360.00508,116.49251 v 19 a 1.5,1.5 0 0 0 3,0 v -19 a 1.5,1.5 0 0 0 -3,0 z" />
+      <circle
+         id="circle226"
+         r="1.85"
+         cy="118.82976"
+         cx="348.00507" />
+      <circle
+         id="circle228"
+         r="0.99000001"
+         cy="255.20386"
+         cx="441.96582" />
+      <circle
+         id="circle230"
+         r="1.85"
+         cy="231.19322"
+         cx="283.13199" />
+      <circle
+         id="circle232"
+         r="0.99000001"
+         cy="244.37854"
+         cx="274.79434" />
+    </g>
+  </g>
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1"
+     id="g316"
+     lc:blockname="MYLAYER002"
+     transform="translate(134.10313,-157.48777)">
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g238"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="0" />
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g314"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="Body_Slices">
+      <path
+         inkscape:connector-curvature="0"
+         id="path240"
+         d="m 528.73952,292.44654 -5.02328,8.70059 9.35962,5.40377 4.59027,-7.95058 a 1.5,1.5 0 0 1 1.29903,-0.75 h 14.54246 a 4.556304,4.556304 0 0 0 3.2218,-7.77809 11,11 0 0 1 -3.2218,-7.77815 v -16.15637 h -4.75 v -3.5 h 4.05 l 81.07627,140.42822 -8.05,13.94301 H 463.68135 l -8.05,-13.94301 60.32627,-104.48816 4.33013,2.5 7.75,-13.4234 -4.33013,-2.5 13,-22.51666 h 4.05 v 3.5 h -4.75 v 16.15637 a 11,11 0 0 1 -3.2218,7.77815 4.556304,4.556304 0 0 0 -0.99948,1.50693 2,2 0 0 1 -2.85294,0.97932 z" />
+      <circle
+         id="circle242"
+         r="0.99000001"
+         cy="311.38672"
+         cx="555.54944" />
+      <circle
+         id="circle244"
+         r="0.99000001"
+         cy="366.81693"
+         cx="480.02383" />
+      <circle
+         id="circle246"
+         r="0.99000001"
+         cy="264.38773"
+         cx="551.00763" />
+      <circle
+         id="circle248"
+         r="1.85"
+         cy="278.20099"
+         cx="531.25763" />
+      <circle
+         id="circle250"
+         r="0.99000001"
+         cy="403.74979"
+         cx="458.04691" />
+      <circle
+         id="circle252"
+         r="0.99000001"
+         cy="301.88672"
+         cx="517.51129" />
+      <circle
+         id="circle254"
+         r="0.99000001"
+         cy="403.74979"
+         cx="631.46832" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path256"
+         d="m 481.48407,364.78771 16.02147,9.25 35,-60.62178 -16.02147,-9.25 z" />
+      <circle
+         id="circle258"
+         r="0.99000001"
+         cy="333.6636"
+         cx="497.57141" />
+      <circle
+         id="circle260"
+         r="0.99000001"
+         cy="344.54004"
+         cx="516.41821" />
+      <circle
+         id="circle262"
+         r="0.99000001"
+         cy="414.5751"
+         cx="464.29691" />
+      <circle
+         id="circle264"
+         r="1.85"
+         cy="390.56445"
+         cx="466.38455" />
+      <circle
+         id="circle266"
+         r="1.85"
+         cy="413.94714"
+         cx="479.88455" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path268"
+         d="m 478.90979,409.00146 12.99038,-7.5 -8.5,-14.72243 -12.99038,7.5 z" />
+      <circle
+         id="circle270"
+         r="0.99000001"
+         cy="376.31693"
+         cx="496.4783" />
+      <circle
+         id="circle272"
+         r="0.99000001"
+         cy="395.00894"
+         cx="507.27014" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path274"
+         d="m 573.03117,304.16593 -16.02147,9.25 35,60.62178 16.02147,-9.25 z" />
+      <circle
+         id="circle276"
+         r="0.99000001"
+         cy="333.66003"
+         cx="591.94177" />
+      <circle
+         id="circle278"
+         r="0.99000001"
+         cy="344.54361"
+         cx="573.09912" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path280"
+         d="m 540.75762,305.6229 -45.875,79.45784 4,6.9282 h 91.75 l 4,-6.9282 -45.875,-79.45784 z" />
+      <circle
+         id="circle282"
+         r="0.99000001"
+         cy="311.38672"
+         cx="533.96576" />
+      <circle
+         id="circle284"
+         r="0.99000001"
+         cy="414.00894"
+         cx="582.24512" />
+      <circle
+         id="circle286"
+         r="0.99000001"
+         cy="395.00894"
+         cx="582.24512" />
+      <circle
+         id="circle288"
+         r="1.85"
+         cy="413.94714"
+         cx="609.63068" />
+      <circle
+         id="circle290"
+         r="0.99000001"
+         cy="415.38895"
+         cx="544.7597" />
+      <circle
+         id="circle292"
+         r="0.99000001"
+         cy="393.62894"
+         cx="544.75555" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path294"
+         d="m 579.75762,413.75894 v -18.5 h -70 v 18.5 z" />
+      <circle
+         id="circle296"
+         r="0.99000001"
+         cy="414.00894"
+         cx="507.27014" />
+      <circle
+         id="circle298"
+         r="1.85"
+         cy="278.20099"
+         cx="558.25763" />
+      <circle
+         id="circle300"
+         r="0.99000001"
+         cy="301.88672"
+         cx="572.00397" />
+      <circle
+         id="circle302"
+         r="0.99000001"
+         cy="366.81693"
+         cx="609.49139" />
+      <circle
+         id="circle304"
+         r="1.85"
+         cy="390.56445"
+         cx="623.13068" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path306"
+         d="m 624.09588,394.4126 -16.02147,-9.25 3,-5.19615 -4.76314,-2.75 -3,5.19615 -1.73205,-1 -10.65,18.44634 22.51666,13 z" />
+      <circle
+         id="circle308"
+         r="0.99000001"
+         cy="376.31693"
+         cx="593.03693" />
+      <circle
+         id="circle310"
+         r="0.99000001"
+         cy="414.5751"
+         cx="625.21832" />
+      <circle
+         id="circle312"
+         r="0.99000001"
+         cy="264.38773"
+         cx="538.50763" />
+    </g>
+  </g>
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1"
+     id="g388"
+     lc:blockname="MYLAYER006"
+     transform="translate(306.25567,161.25468)">
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g318"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="0" />
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g386"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="Body_Slices">
+      <path
+         inkscape:connector-curvature="0"
+         id="path320"
+         d="m 267.37881,84.323474 -8.05,13.943008 H 97.17627 l -8.05,-13.943008 60.32627,-104.488165 4.33013,2.5 7.75,-13.423394 -4.33013,-2.5 13,-22.516661 h 16.1 z" />
+      <circle
+         id="circle322"
+         r="0.99000001"
+         cy="76.266479"
+         cx="140.76508" />
+      <circle
+         id="circle324"
+         r="0.99000001"
+         cy="-16.855736"
+         cx="151.00621" />
+      <circle
+         id="circle326"
+         r="0.99000001"
+         cy="48.074463"
+         cx="113.51875" />
+      <circle
+         id="circle328"
+         r="0.99000001"
+         cy="74.886482"
+         cx="178.25047" />
+      <circle
+         id="circle330"
+         r="0.99000001"
+         cy="76.266479"
+         cx="215.74001" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path332"
+         d="m 174.25254,-13.119552 -45.875,79.457831 4,6.928203 h 91.75 l 4,-6.928203 -45.875,-79.457831 z" />
+      <circle
+         id="circle334"
+         r="0.99000001"
+         cy="25.801153"
+         cx="206.59404" />
+      <circle
+         id="circle336"
+         r="0.99000001"
+         cy="-7.3557363"
+         cx="167.46069" />
+      <circle
+         id="circle338"
+         r="0.99000001"
+         cy="25.797573"
+         cx="149.91312" />
+      <circle
+         id="circle340"
+         r="0.99000001"
+         cy="-7.3557363"
+         cx="189.04439" />
+      <circle
+         id="circle342"
+         r="0.99000001"
+         cy="14.917574"
+         cx="225.43668" />
+      <circle
+         id="circle344"
+         r="0.99000001"
+         cy="14.921154"
+         cx="131.06633" />
+      <circle
+         id="circle346"
+         r="0.99000001"
+         cy="57.574463"
+         cx="129.97324" />
+      <circle
+         id="circle348"
+         r="0.99000001"
+         cy="57.574463"
+         cx="226.53185" />
+      <circle
+         id="circle350"
+         r="1.85"
+         cy="-40.541473"
+         cx="164.75253" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path352"
+         d="m 176.75254,-42.878715 v 19 a 1.5,1.5 0 0 0 3,0 v -19 a 1.5,1.5 0 0 0 -3,0 z" />
+      <circle
+         id="circle354"
+         r="1.85"
+         cy="-40.541473"
+         cx="191.75253" />
+      <circle
+         id="circle356"
+         r="0.99000001"
+         cy="-16.855736"
+         cx="205.49887" />
+      <circle
+         id="circle358"
+         r="0.99000001"
+         cy="48.074463"
+         cx="242.98633" />
+      <circle
+         id="circle360"
+         r="1.85"
+         cy="95.204681"
+         cx="113.37946" />
+      <circle
+         id="circle362"
+         r="0.99000001"
+         cy="95.266479"
+         cx="140.76508" />
+      <circle
+         id="circle364"
+         r="1.85"
+         cy="95.204681"
+         cx="243.12563" />
+      <circle
+         id="circle366"
+         r="0.99000001"
+         cy="95.266479"
+         cx="215.74001" />
+      <circle
+         id="circle368"
+         r="0.99000001"
+         cy="96.646484"
+         cx="178.25461" />
+      <circle
+         id="circle370"
+         r="0.99000001"
+         cy="-54.354744"
+         cx="184.50253" />
+      <circle
+         id="circle372"
+         r="0.99000001"
+         cy="-54.354744"
+         cx="172.00253" />
+      <circle
+         id="circle374"
+         r="0.99000001"
+         cy="85.007317"
+         cx="264.96326" />
+      <circle
+         id="circle376"
+         r="1.85"
+         cy="71.821999"
+         cx="256.62561" />
+      <circle
+         id="circle378"
+         r="0.99000001"
+         cy="95.832634"
+         cx="258.71326" />
+      <circle
+         id="circle380"
+         r="1.85"
+         cy="71.821999"
+         cx="99.879456" />
+      <circle
+         id="circle382"
+         r="0.99000001"
+         cy="95.832634"
+         cx="97.791817" />
+      <circle
+         id="circle384"
+         r="0.99000001"
+         cy="85.007317"
+         cx="91.541817" />
+    </g>
+  </g>
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1"
+     id="g462"
+     lc:blockname="MYLAYER001"
+     transform="translate(25.82686,-325.80201)">
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g390"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="0" />
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g460"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="Body_Slices">
+      <path
+         inkscape:connector-curvature="0"
+         id="path392"
+         d="m 450.63135,403.06593 -8.05,13.94301 H 280.42881 l -8.05,-13.94301 81.07627,-140.42822 h 16.1 z" />
+      <circle
+         id="circle394"
+         r="0.99000001"
+         cy="301.88672"
+         cx="388.7514" />
+      <circle
+         id="circle396"
+         r="0.99000001"
+         cy="264.38773"
+         cx="355.25507" />
+      <circle
+         id="circle398"
+         r="1.85"
+         cy="413.94714"
+         cx="296.63199" />
+      <circle
+         id="circle400"
+         r="0.99000001"
+         cy="301.88672"
+         cx="334.25876" />
+      <circle
+         id="circle402"
+         r="0.99000001"
+         cy="403.74979"
+         cx="274.79434" />
+      <circle
+         id="circle404"
+         r="0.99000001"
+         cy="414.5751"
+         cx="441.96582" />
+      <circle
+         id="circle406"
+         r="0.99000001"
+         cy="414.00894"
+         cx="324.01761" />
+      <circle
+         id="circle408"
+         r="1.85"
+         cy="413.94714"
+         cx="426.37817" />
+      <circle
+         id="circle410"
+         r="0.99000001"
+         cy="414.5751"
+         cx="281.04434" />
+      <circle
+         id="circle412"
+         r="0.99000001"
+         cy="264.38773"
+         cx="367.75507" />
+      <circle
+         id="circle414"
+         r="1.85"
+         cy="390.56445"
+         cx="283.13199" />
+      <circle
+         id="circle416"
+         r="0.99000001"
+         cy="366.81693"
+         cx="296.7713" />
+      <circle
+         id="circle418"
+         r="0.99000001"
+         cy="333.6636"
+         cx="314.31888" />
+      <circle
+         id="circle420"
+         r="0.99000001"
+         cy="366.81693"
+         cx="426.23886" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path422"
+         d="m 335.6131,305.54093 -2.38157,-1.375 -35,60.62178 2.38157,1.375 -14.63365,25.34623 a 13,13 0 0 0 11.25833,19.5 h 29.2673 v 2.75 h 70 v -2.75 h 29.26731 a 13,13 0 0 0 1.13124,-0.0493 l 3.28971,1.89931 2.07096,-3.58701 a 13,13 0 0 0 6.50808,-11.27233 l 2.07096,-3.587 -3.28971,-1.89932 a 13,13 0 0 0 -0.52291,-1.00434 l -14.63366,-25.34623 2.38157,-1.375 -35,-60.62178 -2.38157,1.375 -14.63365,-25.34623 a 13,13 0 0 0 -22.51666,0 z" />
+      <circle
+         id="circle424"
+         r="1.85"
+         cy="278.20099"
+         cx="348.00507" />
+      <circle
+         id="circle426"
+         r="1.85"
+         cy="390.56445"
+         cx="439.87817" />
+      <circle
+         id="circle428"
+         r="1.85"
+         cy="278.20099"
+         cx="375.00507" />
+      <circle
+         id="circle430"
+         r="0.99000001"
+         cy="333.66003"
+         cx="408.68921" />
+      <circle
+         id="circle432"
+         r="0.99000001"
+         cy="414.00894"
+         cx="398.99255" />
+      <circle
+         id="circle434"
+         r="0.99000001"
+         cy="415.38895"
+         cx="361.50714" />
+      <circle
+         id="circle436"
+         r="0.99000001"
+         cy="403.74979"
+         cx="448.21582" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path438"
+         d="m 371.03136,303.1947 5.10737,8.84623 -2.38157,1.375 35,60.62178 2.38157,-1.375 5.10738,8.84623 a 11,11 0 0 1 0.89031,1.96524 l -8.26948,14.32318 a 11,11 0 0 1 -2.14711,0.21158 h -10.21475 v -2.75 h -70 v 2.75 h -10.21475 a 11,11 0 0 1 -9.52627,-16.5 l 5.10737,-8.84623 2.38157,1.375 35,-60.62178 -2.38157,-1.375 5.10737,-8.84623 a 11,11 0 0 1 19.05256,0 z" />
+      <circle
+         id="circle440"
+         r="0.99000001"
+         cy="344.54361"
+         cx="389.84659" />
+      <circle
+         id="circle442"
+         r="0.99000001"
+         cy="395.00894"
+         cx="398.99255" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path444"
+         d="m 357.50508,305.6229 -45.875,79.45784 4,6.9282 h 91.75 l 4,-6.9282 -45.875,-79.45784 z" />
+      <circle
+         id="circle446"
+         r="0.99000001"
+         cy="311.38672"
+         cx="350.71323" />
+      <circle
+         id="circle448"
+         r="0.99000001"
+         cy="311.38672"
+         cx="372.29694" />
+      <circle
+         id="circle450"
+         r="0.99000001"
+         cy="376.31693"
+         cx="313.22577" />
+      <circle
+         id="circle452"
+         r="0.99000001"
+         cy="344.54004"
+         cx="333.16565" />
+      <circle
+         id="circle454"
+         r="0.99000001"
+         cy="376.31693"
+         cx="409.78439" />
+      <circle
+         id="circle456"
+         r="0.99000001"
+         cy="393.62894"
+         cx="361.50302" />
+      <circle
+         id="circle458"
+         r="0.99000001"
+         cy="395.00894"
+         cx="324.01761" />
+    </g>
+  </g>
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1"
+     id="g540"
+     lc:blockname="MYLAYER003"
+     transform="translate(0.70000265,3.5)">
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g464"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="0" />
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g538"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="Body_Slices"
+       transform="translate(111.20313,-1.6165406)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path466"
+         d="m 176.75254,129.36648 v 6.12603 a 1.5,1.5 0 0 0 3,0 v -6.12603 h 7.25 v -22.6 h -4.75 v -3.5 h 4.05 l 81.07627,140.42822 -8.05,13.94301 H 97.17627 l -8.05,-13.94301 60.32627,-104.48816 4.33013,2.5 0.475,-0.82273 13.42339,7.75 6.8,-11.77794 -13.42339,-7.75 0.475,-0.82273 -4.33013,-2.5 13,-22.51666 h 4.05 v 3.5 h -4.75 v 22.6 z" />
+      <circle
+         id="circle468"
+         r="0.99000001"
+         cy="105.01648"
+         cx="184.50253" />
+      <circle
+         id="circle470"
+         r="1.85"
+         cy="118.82976"
+         cx="191.75253" />
+      <circle
+         id="circle472"
+         r="0.99000001"
+         cy="244.37854"
+         cx="91.541817" />
+      <circle
+         id="circle474"
+         r="0.99000001"
+         cy="234.25771"
+         cx="178.25047" />
+      <circle
+         id="circle476"
+         r="1.85"
+         cy="254.57591"
+         cx="113.37946" />
+      <circle
+         id="circle478"
+         r="0.99000001"
+         cy="105.01648"
+         cx="172.00253" />
+      <circle
+         id="circle480"
+         r="0.99000001"
+         cy="142.51549"
+         cx="205.49887" />
+      <circle
+         id="circle482"
+         r="0.99000001"
+         cy="255.20386"
+         cx="97.791817" />
+      <circle
+         id="circle484"
+         r="0.99000001"
+         cy="255.20386"
+         cx="258.71326" />
+      <circle
+         id="circle486"
+         r="0.99000001"
+         cy="235.63771"
+         cx="140.76508" />
+      <circle
+         id="circle488"
+         r="0.99000001"
+         cy="207.44569"
+         cx="113.51875" />
+      <circle
+         id="circle490"
+         r="1.85"
+         cy="118.82976"
+         cx="164.75253" />
+      <circle
+         id="circle492"
+         r="0.99000001"
+         cy="142.51549"
+         cx="151.00621" />
+      <circle
+         id="circle494"
+         r="0.99000001"
+         cy="174.2888"
+         cx="225.43668" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path496"
+         d="m 174.25254,146.25168 -45.875,79.45783 4,6.9282 h 91.75 l 4,-6.9282 -45.875,-79.45783 z" />
+      <circle
+         id="circle498"
+         r="0.99000001"
+         cy="152.01549"
+         cx="189.04439" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path500"
+         d="m 114.97899,205.41648 16.02147,9.25 35,-60.62178 -16.02147,-9.25 z" />
+      <circle
+         id="circle502"
+         r="0.99000001"
+         cy="174.29239"
+         cx="131.06633" />
+      <circle
+         id="circle504"
+         r="0.99000001"
+         cy="185.16881"
+         cx="149.91312" />
+      <circle
+         id="circle506"
+         r="0.99000001"
+         cy="152.01549"
+         cx="167.46069" />
+      <circle
+         id="circle508"
+         r="0.99000001"
+         cy="185.17238"
+         cx="206.59404" />
+      <circle
+         id="circle510"
+         r="0.99000001"
+         cy="216.94569"
+         cx="129.97324" />
+      <circle
+         id="circle512"
+         r="0.99000001"
+         cy="216.94569"
+         cx="226.53185" />
+      <circle
+         id="circle514"
+         r="0.99000001"
+         cy="235.63771"
+         cx="215.74001" />
+      <circle
+         id="circle516"
+         r="0.99000001"
+         cy="254.63771"
+         cx="140.76508" />
+      <circle
+         id="circle518"
+         r="0.99000001"
+         cy="254.63771"
+         cx="215.74001" />
+      <circle
+         id="circle520"
+         r="0.99000001"
+         cy="256.0177"
+         cx="178.25461" />
+      <circle
+         id="circle522"
+         r="1.85"
+         cy="254.57591"
+         cx="243.12563" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path524"
+         d="m 257.5908,235.04137 -16.02147,-9.25 3,-5.19615 -4.76314,-2.75 -3,5.19615 -1.73205,-1 -10.65,18.44634 22.51666,13 z" />
+      <circle
+         id="circle526"
+         r="1.85"
+         cy="231.19322"
+         cx="256.62561" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path528"
+         d="m 213.25254,254.38771 v -18.5 h -70 v 18.5 z" />
+      <circle
+         id="circle530"
+         r="0.99000001"
+         cy="207.44569"
+         cx="242.98633" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path532"
+         d="m 206.52609,144.7947 -16.02147,9.25 35,60.62178 16.02147,-9.25 z" />
+      <circle
+         id="circle534"
+         r="1.85"
+         cy="231.19322"
+         cx="99.879456" />
+      <circle
+         id="circle536"
+         r="0.99000001"
+         cy="244.37854"
+         cx="264.96326" />
+    </g>
+  </g>
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1"
+     id="g614"
+     lc:blockname="MYLAYER007"
+     transform="rotate(-60,368.30476,-95.944247)">
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g542"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="0" />
+    <g
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="g612"
+       lc:is_construction="false"
+       lc:is_locked="false"
+       lc:layername="Body_Slices">
+      <path
+         inkscape:connector-curvature="0"
+         id="path544"
+         d="m 450.63135,84.323474 -8.05,13.943008 H 280.42881 l -8.05,-13.943008 81.07627,-140.42822 h 16.1 z" />
+      <circle
+         id="circle546"
+         r="0.99000001"
+         cy="96.646484"
+         cx="361.50714" />
+      <circle
+         id="circle548"
+         r="0.99000001"
+         cy="95.832634"
+         cx="281.04434" />
+      <circle
+         id="circle550"
+         r="0.99000001"
+         cy="-54.354744"
+         cx="367.75507" />
+      <circle
+         id="circle552"
+         r="0.99000001"
+         cy="95.266479"
+         cx="398.99255" />
+      <circle
+         id="circle554"
+         r="0.99000001"
+         cy="95.266479"
+         cx="324.01761" />
+      <circle
+         id="circle556"
+         r="1.85"
+         cy="95.204681"
+         cx="296.63199" />
+      <circle
+         id="circle558"
+         r="0.99000001"
+         cy="-54.354744"
+         cx="355.25507" />
+      <circle
+         id="circle560"
+         r="1.85"
+         cy="-40.541473"
+         cx="375.00507" />
+      <circle
+         id="circle562"
+         r="0.99000001"
+         cy="-16.855736"
+         cx="388.7514" />
+      <circle
+         id="circle564"
+         r="1.85"
+         cy="71.821999"
+         cx="283.13199" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path566"
+         d="m 295.50573,91.266482 a 11,11 0 0 1 -9.52628,-16.5 L 351.9788,-39.547755 a 11,11 0 0 1 19.05256,0 l 65.99936,114.314237 a 11,11 0 0 1 -9.52628,16.5 z" />
+      <circle
+         id="circle568"
+         r="0.99000001"
+         cy="48.074463"
+         cx="296.7713" />
+      <circle
+         id="circle570"
+         r="1.85"
+         cy="-40.541473"
+         cx="348.00507" />
+      <circle
+         id="circle572"
+         r="0.99000001"
+         cy="-16.855736"
+         cx="334.25876" />
+      <circle
+         id="circle574"
+         r="0.99000001"
+         cy="85.007317"
+         cx="448.21582" />
+      <circle
+         id="circle576"
+         r="0.99000001"
+         cy="95.832634"
+         cx="441.96582" />
+      <circle
+         id="circle578"
+         r="1.85"
+         cy="95.204681"
+         cx="426.37817" />
+      <circle
+         id="circle580"
+         r="1.85"
+         cy="71.821999"
+         cx="439.87817" />
+      <circle
+         id="circle582"
+         r="0.99000001"
+         cy="14.917574"
+         cx="408.68921" />
+      <circle
+         id="circle584"
+         r="0.99000001"
+         cy="48.074463"
+         cx="426.23886" />
+      <circle
+         id="circle586"
+         r="0.99000001"
+         cy="14.921154"
+         cx="314.31888" />
+      <circle
+         id="circle588"
+         r="0.99000001"
+         cy="85.007317"
+         cx="274.79434" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path590"
+         d="m 305.89803,62.266483 45.21475,-78.314238 a 12,12 0 0 1 20.78461,0 l 45.21474,78.314238 a 12,12 0 0 1 -10.3923,17.999999 h -90.4295 a 12,12 0 0 1 -10.3923,-17.999999 z" />
+      <circle
+         id="circle592"
+         r="0.99000001"
+         cy="74.886482"
+         cx="361.50302" />
+      <circle
+         id="circle594"
+         r="0.99000001"
+         cy="25.797573"
+         cx="333.16565" />
+      <circle
+         id="circle596"
+         r="0.99000001"
+         cy="76.266479"
+         cx="324.01761" />
+      <circle
+         id="circle598"
+         r="0.99000001"
+         cy="-7.3557363"
+         cx="350.71323" />
+      <circle
+         id="circle600"
+         r="0.99000001"
+         cy="76.266479"
+         cx="398.99255" />
+      <circle
+         id="circle602"
+         r="0.99000001"
+         cy="57.574463"
+         cx="313.22577" />
+      <circle
+         id="circle604"
+         r="0.99000001"
+         cy="57.574463"
+         cx="409.78439" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path606"
+         d="m 357.50508,-13.119552 -45.875,79.457831 4,6.928203 h 91.75 l 4,-6.928203 -45.875,-79.457831 z" />
+      <circle
+         id="circle608"
+         r="0.99000001"
+         cy="25.801153"
+         cx="389.84659" />
+      <circle
+         id="circle610"
+         r="0.99000001"
+         cy="-7.3557363"
+         cx="372.29694" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="http://www.librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="178.25254038mm" height="154.37122826mm" viewBox="0 0 178.25254038 154.37122826">
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
+    <g lc:layername="Body_Slices" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <g lc:blockname="MYLAYER006">
+            <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
+            <g lc:layername="Body_Slices" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+                <path d="M267.37881057,403.06593002 L259.32881057,417.00893902 L97.17627019,417.00893902 L89.12627019,403.06593002 L170.20254038,262.63771076 L186.30254038,262.63771076 L267.37881057,403.06593002 Z "/>
+                <circle cx="256.62562193" cy="390.56445573" r="1.85"/>
+                <circle cx="164.75254038" cy="278.20098244" r="1.85"/>
+                <circle cx="191.75254038" cy="278.20098244" r="1.85"/>
+                <path d="M174.25254038,305.62290499 L128.37754038,385.08073579 L132.37754038,392.00893902 L224.12754038,392.00893902 L228.12754038,385.08073579 L182.25254038,305.62290499 L174.25254038,305.62290499 Z "/>
+                <circle cx="99.87945883" cy="390.56445573" r="1.85"/>
+                <circle cx="243.12562193" cy="413.94714163" r="1.85"/>
+                <circle cx="113.37945883" cy="413.94714163" r="1.85"/>
+            </g>
+        </g>
+    </g>
+</svg>
